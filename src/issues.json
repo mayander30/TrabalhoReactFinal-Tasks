@@ -1,0 +1,16 @@
+{
+    "issues": [
+    {
+        "title": "Create React Native Project",
+        "description": "RESOLVIDO PROBLEMA NA VARIAVEL TAL"
+    },
+    {
+        "title": "Install Dependencies",
+        "description": "In your project root, run npm install --save react-redux \nnpm install —save redux \nnpm install —save redux-thunk"
+    },
+    {
+        "title": "Create Folder Structure",
+        "description": "In your project root create an 'app' folder. In the app folder create an 'actions' folder , a 'reducers' folder and a 'components' folder."
+    }
+]
+}
