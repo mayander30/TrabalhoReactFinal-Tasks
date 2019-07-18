@@ -7,6 +7,10 @@ TELAS
   - CADASTRO DE PROBLEMAS
   - PAGINA INICIAL
 
+![imagem 1](https://github.com/mayander30/TrabalhoReactFinal-Tasks/blob/master/Screenshot_20190718-121334_Expo.jpg?raw=true)
+![imagem 2](https://github.com/mayander30/TrabalhoReactFinal-Tasks/blob/master/Screenshot_20190718-121340_Expo%20(1).jpg?raw=true)
+![imagem 3](https://github.com/mayander30/TrabalhoReactFinal-Tasks/blob/master/Screenshot_20190718-121340_Expo.jpg?raw=true)
+
 ### Plugins
 
 | Plugin |
@@ -17,3 +21,4 @@ TELAS
 | redux-thunk |
 | expo-camera | 
 | expo-image-picker |
+
